@@ -29,20 +29,22 @@ npm run dev
 ## ⚠️ Note: You may need a VPN (like Proton VPN) to access the TMDB API if their server is temporarily blocked in your region.
 
 ## 🛠 Tech Stack
-**React**
 
-**Vite**
+| Technology     | Description                                 |
+|----------------|---------------------------------------------|
+| ⚛️ **React**     | Frontend JavaScript library for building UI |
+| ⚡ **Vite**       | Lightning-fast build tool and dev server    |
+| 🎨 **Tailwind CSS** | Utility-first CSS framework for styling    |
+| 🎬 **TMDB API**    | Movie data provider for search & listings  |
+| 🧩 **Appwrite**    | Backend-as-a-Service for auth & storage    |
 
-**Tailwind CSS**
 
-**TMDB API**
+## 📸 Screenshots
 
-**Appwrite**
+![Screenshot (40)](https://github.com/user-attachments/assets/03fc8da1-d347-4459-b77c-e8d33ed1e1fb)
 
-## Screenshots
-![Screenshot (40)](https://github.com/user-attachments/assets/2f8f0827-0525-48cc-bb76-c7b2c5f7c276)
+![Screenshot (41)](https://github.com/user-attachments/a![Screenshot (40)](https://github.com/user-attachments/assets/529e9d3d-6d98-47ba-9cc0-ff854af219af)
+ssets/c58bfc2b-515f-48dc-92b9-9b9942464410)
 
-![Screenshot (41)](https://github.com/user-attachments/assets/318bf1b4-ebd1-4b21-b31a-bfc27798594d)
 
-![Screenshot (42)](https://github.com/user-attachments/assets/9378bb1f-fd67-4d76-8d2f-dd6f1b5a3ec3)
-
+![Screenshot (42)](https://github.com/user-attachments/assets/d217b19c-7848-452b-984f-0af66ce0c78a)
